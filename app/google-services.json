@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580827563128",
+    "project_id": "anime-trivia-f8e36",
+    "storage_bucket": "anime-trivia-f8e36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580827563128:android:024d6841a0e59da4fbd98d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxFypFoSUS3zxxwypq7gWMw7GnsEzLwVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
